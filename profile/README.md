@@ -21,7 +21,7 @@ Some extension repositories may require organization access.
 - [weave-tui-diff-viewer](https://github.com/weave-agent/weave-tui-diff-viewer) — diff viewer UI extension
 - [weave-tui-diffview](https://github.com/weave-agent/weave-tui-diffview) — diff viewer UI extension
 - [weave-tui-subagent](https://github.com/weave-agent/weave-tui-subagent) — subagent UI integration
-- [weave-sandbox-ui](https://github.com/weave-agent/weave-sandbox-ui) — sandbox UI integration
+- [weave-tui-sandbox](https://github.com/weave-agent/weave-tui-sandbox) — TUI sandbox integration
 
 ### Providers
 
