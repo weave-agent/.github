@@ -1,6 +1,6 @@
 # Weave
 
-Weave is a lightweight, extensible coding agent framework written in Go.
+Weave is a lightweight, extensible coding agent written in Go.
 
 The core framework provides an event-driven SDK, dynamic extension loading, provider-neutral model support, and a terminal-first developer experience. Extensions own individual capabilities and communicate through bus events, so tools, providers, UIs, storage, and agent behavior can evolve independently.
 
