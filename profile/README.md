@@ -10,16 +10,30 @@ The core framework provides an event-driven SDK, dynamic extension loading, prov
 - [weave-tui](https://github.com/weave-agent/weave-tui) — terminal UI extension
 - [homebrew-tap](https://github.com/weave-agent/homebrew-tap) — Homebrew installation tap
 
-## Public extensions
+## Extensions
+
+Some extension repositories may require organization access.
+
+### Agent and UI
+
+- [weave-agent](https://github.com/weave-agent/weave-agent) — conversation loop, prompt assembly, and tool execution
+- [weave-tui](https://github.com/weave-agent/weave-tui) — terminal UI
+- [weave-tui-diff-viewer](https://github.com/weave-agent/weave-tui-diff-viewer) — diff viewer UI extension
+- [weave-tui-diffview](https://github.com/weave-agent/weave-tui-diffview) — diff viewer UI extension
+- [weave-tui-subagent](https://github.com/weave-agent/weave-tui-subagent) — subagent UI integration
+- [weave-sandbox-ui](https://github.com/weave-agent/weave-sandbox-ui) — sandbox UI integration
 
 ### Providers
 
 - [weave-anthropic](https://github.com/weave-agent/weave-anthropic)
+- [weave-codex](https://github.com/weave-agent/weave-codex)
+- [weave-kimi](https://github.com/weave-agent/weave-kimi)
 - [weave-openai](https://github.com/weave-agent/weave-openai)
 - [weave-zai](https://github.com/weave-agent/weave-zai)
 
 ### Tools
 
+- [search](https://github.com/weave-agent/search)
 - [weave-bash](https://github.com/weave-agent/weave-bash)
 - [weave-edit](https://github.com/weave-agent/weave-edit)
 - [weave-find](https://github.com/weave-agent/weave-find)
@@ -28,6 +42,12 @@ The core framework provides an event-driven SDK, dynamic extension loading, prov
 - [weave-read](https://github.com/weave-agent/weave-read)
 - [weave-webfetch](https://github.com/weave-agent/weave-webfetch)
 - [weave-write](https://github.com/weave-agent/weave-write)
+
+### Runtime and storage
+
+- [weave-jsonl](https://github.com/weave-agent/weave-jsonl) — JSONL session logging
+- [weave-sandbox](https://github.com/weave-agent/weave-sandbox) — sandbox execution
+- [weave-subagent](https://github.com/weave-agent/weave-subagent) — subagent execution
 
 ## Install
 
